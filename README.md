@@ -25,7 +25,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://abdullanz.github.io/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/abdullah-najjar-cs"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:amnjrx@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://abdullanz.github.io/"><img src="https://img.shields.io/badge/-abdullanz.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abdullah-najjar-cs"><img src="https://img.shields.io/badge/-abdullah-najjar-cs-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:amnjrx@gmail.com"><img src="https://img.shields.io/badge/-amnjrx@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
