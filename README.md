@@ -5,9 +5,9 @@
 💡 &nbsp;I like to explore new technologies and architect software solutions using AWS platform.\
 🎓 &nbsp;I'm currently interning at Amazon Web Services (AWS) as a Solutions Architect Intern in Riyadh, Saudi Arabia.\
 🌱 &nbsp;I'm on track for learning more about Web Development, Data Analytics, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I write in my Blog and spend time with family or friends.\
+✍️ &nbsp;In my free time, I write in my Blog and spend time with family and friends.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1uw_9VT9NXTA7QRC6nzrIF1saKpFAtrpD/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Technology Stack
 
@@ -25,11 +25,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://abdullanz.github.io/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abdullah-najjar-cs"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:amnjrx@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
