@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about Web Development, Data Analytics, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I write in my Blog and spend time with family and friends.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1uw_9VT9NXTA7QRC6nzrIF1saKpFAtrpD/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1QryqgHK-RlkTmf5ZopOChiafBjrCtNL4/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Technology Stack
 
