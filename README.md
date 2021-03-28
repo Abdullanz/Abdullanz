@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I enjoy exploring new technologies and architect software solutions using the cloud.\
-🎓 &nbsp;I'm currently a Consulting Analyst at Accenture in Riyadh, Saudi Arabia.\
+🎓 &nbsp;I'm currently working as a Consulting Analyst Trainee at Accenture in Riyadh, Saudi Arabia.\
 🌱 &nbsp;I'm on track for learning more about Web Development, Data Analytics, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I write in my Blog and spend time with family and friends.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering.\
