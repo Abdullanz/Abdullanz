@@ -2,10 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I enjoy exploring new technologies and architect software solutions using the cloud.\
-🎓 &nbsp;I'm currently working as a Consulting Analyst Trainee at Accenture in Riyadh, Saudi Arabia.\
-🌱 &nbsp;I'm on track for learning more about Web Development, Data Analytics, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I write in my Blog and spend time with family and friends.\
+💡 &nbsp;I enjoy experimenting with new tech and architecting cloud solutions to enable people to do more through technology\
+🎓 &nbsp;I'm currently working as a Management Consulting Analyst at Accenture in Riyadh, Saudi Arabia\
+🌱 &nbsp;I'm on a personal level looking to grow & learn about progressive web applications, cloud strategy, and cloud Architecture to develop business value\
+✍️ &nbsp;In my free time, I like to write/read about tech, play games and spend time with family and friends.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1QryqgHK-RlkTmf5ZopOChiafBjrCtNL4/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
